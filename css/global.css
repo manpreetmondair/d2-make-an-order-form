@@ -1,0 +1,12 @@
+body {
+    background: #DDEDAA;
+    background-image: url(/img/background.png);
+}
+#header{
+       background: #3DF487
+
+}
+
+#hidden {
+    display: none;
+}
